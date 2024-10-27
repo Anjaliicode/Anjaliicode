@@ -21,6 +21,8 @@
 <a href="https://www.linkedin.com/in/anjalicode/" target="_blank">
 <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
+<br>
+<a href="https://hashnode.com/@Anjalisaini" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
  
  # 💻 Tech Stack:
@@ -32,7 +34,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anjaliicode" alt="navneetkumar22" height="80" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjaliicode&label=Profile%20views&color=0e75b6&style=flat" alt="navneetkumar22" height="20"/> </p>
 
 <br>
 </br>
