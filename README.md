@@ -30,7 +30,11 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Anjaliicode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<br>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anjaliicode" alt="navneetkumar22" height="80" /></a> </p>
+
+<br>
 </br>
 <h2>📊 Github Statistics: </h2>
 <div align="center">
