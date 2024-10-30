@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Saini</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=29F742&background=9FFF3A00&center=true&vCenter=true&width=435&lines=ASPIRING+FULL+STACK+WEB+DEVELOPER;MERN+DEVELOPER;QUICK+LEARNER"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=29F742&background=9FFF3A00&center=true&vCenter=true&width=435&lines=ASPIRING+FULL+STACK+WEB+DEVELOPER;FRONTEND+DEVELOPER;QUICK+LEARNER"/>
  </div>
 
 
@@ -54,3 +54,24 @@
 
 </div>
 <hr/>
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
+></script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "Anjaliicode");
+    // or enable responsive functionality
+    GitHubCalendar(".calendar", "Anjaliicode", { responsive: true });
+</script>
