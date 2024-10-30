@@ -54,24 +54,5 @@
 
 </div>
 <hr/>
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
 
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "Anjaliicode");
-    // or enable responsive functionality
-    GitHubCalendar(".calendar", "Anjaliicode", { responsive: true });
-</script>
+![Snake animation](https://github.com/Anjaliicode/Anjaliicode/blob/output/github-snake.svg)
